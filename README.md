@@ -8,4 +8,5 @@
 - 存储在 MySQL 中，主要包括商品的三个属性字段： id(编号)、name(名称)、priority(优先级)；
 
 成果展示：
+- 如图：
 <img width="619" alt="1" src="https://user-images.githubusercontent.com/76676599/161070012-9ec16444-53d0-435c-bf9c-dbd9ea820824.png">
