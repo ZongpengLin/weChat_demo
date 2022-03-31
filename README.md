@@ -1,4 +1,4 @@
-# weChat_demo
+# wxProject_demo
 基于SpringBoot+MyBatis开发的迷你微信小程序（后端部分）
 
 项目介绍：
